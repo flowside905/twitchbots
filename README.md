@@ -5,7 +5,7 @@
 
 <h3>Чтобы установить <b>requirements.txt :</b></h3> 
 	 <pre><p>	pip install -r requirements.txt</p></pre>
-<b>Use: </b>
+<b>Использование: </b>
 	<pre><p>	python twitch.py название канала кол-во прокси</p></pre>
-<b>Exemple: </b>
+<b>Например: </b>
 	<pre><p>	python twitch.py abssduo 5000</p></pre>
